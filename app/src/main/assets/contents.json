@@ -1,0 +1,138 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=id.kanalitnuk.tahilalat",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "One Piece Sticker Pack",
+      "publisher": "KanalitnuK",
+      "tray_image_file": "ic_launcher.webp",
+      "publisher_email":"support@kanalitnuk.net",
+      "publisher_website": "https://www.kanalitnuk.net",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "002.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "003.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "004.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "005.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "006.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "007.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "008.webp",
+          "emojis": ["😘","🍪"]
+        },
+		 {
+          "image_file": "009.webp",
+          "emojis": ["😍","💑"]
+        },
+		 {
+          "image_file": "010.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "011.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "012.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "013.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "014.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "015.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "016.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "017.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "018.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "019.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "020.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "021.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "022.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "023.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "024.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "025.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "026.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "027.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "028.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "029.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "030.webp",
+          "emojis": ["😍","💑"]
+        }
+      ]
+    }
+  ]
+}
